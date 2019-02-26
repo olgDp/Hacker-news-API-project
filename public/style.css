@@ -1,0 +1,10 @@
+body {
+    font-size: 18px;
+    font-family: 'Anonymous Pro', monospace;
+}
+
+a,
+a:hover {
+    display: block;
+    color: #fff;
+}
